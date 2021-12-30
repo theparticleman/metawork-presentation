@@ -84,8 +84,6 @@ namespace Metawork
             Console.Title = "Metawork";
             originalBackgroundColor = Console.BackgroundColor;
             originalForegroundColor = Console.ForegroundColor;
-            Console.BackgroundColor = ConsoleColor.DarkGray;
-            Console.ForegroundColor = ConsoleColor.White;
             Clear();
         }
 
